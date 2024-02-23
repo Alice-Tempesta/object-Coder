@@ -21,7 +21,7 @@ capable of creating a secure channel with an object of the same type.
 > ALL secret fields must be private
 > ALL public keys must be public
 > Use one of the public key ciphers to create a secure channel.
-1. Diffie-Hellman
-2. Shamir
-3. Dl-Gamal
-4. RSA.
+  1. Diffie-Hellman
+  2. Shamir
+  3. Dl-Gamal
+  4. RSA.
