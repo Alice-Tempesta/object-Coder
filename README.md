@@ -1,6 +1,6 @@
 # object-Coder
 
-Task: object Coder
+
 1. Based on the Coder class, implement a simple permutation cipher encoder/decoder
 > Key field - private
 > A constructor without parameters generates a random key
