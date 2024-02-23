@@ -8,12 +8,12 @@
 > The decode and encode methods should perform decryption and encryption respectively
 > Examples of using class methods outside the class:
 
-    <br>Coder object;<br/>
-     <br>std::string text;<br/>
-     <br>syd::cin >> text;<br/>
-     <br>text = object.encode(text);<br/>
-     <br>std::cout << "Encoded text: " << text << std::endl;<br/>
-     <br>std::cout << "Decoded text: " << object.decode(text) << std::endl;<br/>
+<br>Coder object;<br/>
+<br>std::string text;<br/>
+<br>syd::cin >> text;<br/>
+<br>text = object.encode(text);<br/>
+<br>std::cout << "Encoded text: " << text << std::endl;<br/>
+<br>std::cout << "Decoded text: " << object.decode(text) << std::endl;<br/>
 
 2. Based on the Coder class, implement an object
 capable of creating a secure channel with an object of the same type.
