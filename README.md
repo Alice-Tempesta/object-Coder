@@ -7,6 +7,7 @@
 > A constructor with parameters creates an object with the given key
 > The decode and encode methods should perform decryption and encryption respectively
 > Examples of using class methods outside the class:
+
   Coder object;
   std::string text;
   syd::cin >> text;
