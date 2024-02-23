@@ -23,4 +23,4 @@ capable of creating a secure channel with an object of the same type.
 1. Diffie-Hellman
 2. Shamir
 3. Dl-Gamal
-4. Implement the same on RSA.
+4. RSA.
