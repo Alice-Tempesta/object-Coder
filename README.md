@@ -22,5 +22,5 @@ capable of creating a secure channel with an object of the same type.
 > Use one of the public key ciphers to create a secure channel.
 1. Diffie-Hellman
 2. Shamir
-3.Dl-Gamal
+3. Dl-Gamal
 > Implement the same on RSA.
